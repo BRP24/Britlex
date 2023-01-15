@@ -553,6 +553,7 @@ a {
   -webkit-transition: .2s ease-in-out;
   -o-transition: .2s ease-in-out;
   transition: .2s ease-in-out;
+  padding-left: 30px;
 }
 
 .contact-input:focus {
